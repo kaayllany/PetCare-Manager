@@ -4,23 +4,18 @@
 
 **Tela de gerenciamento de usuários para um sistema de clínica veterinária, desenvolvida com React**
 
-![React](https://img.shields.io/badge/React-2F855A?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-087EA4?style=for-the-badge&logo=react&logoColor=white)
 &nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-2F855A?style=for-the-badge&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-B7950B?style=for-the-badge&logo=javascript&logoColor=white)
 &nbsp;&nbsp;
-![Figma](https://img.shields.io/badge/HTML5-2F855A?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 &nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-2F855A?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+&nbsp;&nbsp;
+![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
 &nbsp;&nbsp;
 
-[Sobre](#-sobre-o-projeto) •
-[Funcionalidades](#-funcionalidades) •
-[Tecnologias](#-tecnologias-utilizadas) •
-[Como executar](#-como-executar) •
-[Preview](#-preview) •
-[Acesso por função](#-acesso-por-função) •
-[Roadmap](#-próximos-passos) •
-[Autora](#-autora)
+
 
 </div>
 
