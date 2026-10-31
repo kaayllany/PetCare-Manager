@@ -68,7 +68,6 @@ Protótipos interativos do sistema, um para cada perfil de usuário. Clique no l
 
 <div align="center">
 
-##  Autoria
 
 Projeto desenvolvido em grupo por **Kaylany** e colegas, na graduação em **Análise e Desenvolvimento de Sistemas (UNICID)**.
 
