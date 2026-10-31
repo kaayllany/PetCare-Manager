@@ -15,8 +15,6 @@
 ![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
 &nbsp;&nbsp;
 
-
-
 </div>
 
 ---
@@ -52,13 +50,6 @@ O **PetCare Manager** é um projeto acadêmico que simula parte de um sistema pa
 | **Figma** | Prototipação e design das telas |
 | **Node.js / npm** | Ambiente de execução e gerenciamento de dependências |
 
-
-<div align="center">
-
-![Tela de usuários](assets/preview.png)
-
-*Tela de gerenciamento de usuários*
-
 </div>
 
 ##  Acesso por função
@@ -71,7 +62,6 @@ Protótipos interativos do sistema, um para cada perfil de usuário. Clique no l
 - [Auxiliar Veterinário](./auxiliar-veterinario.md)
 - [Caixa/Financeiro](./caixa-financeiro.md)
 - [Especialista de Higiene](./especialista-higiene.md)
-
 
 
 ##  Autora
