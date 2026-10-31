@@ -21,18 +21,18 @@
 
 ---
 
-## 📖 Sobre o projeto
+##  Sobre o projeto
 
 O **PetCare Manager** é um projeto acadêmico que simula parte de um sistema para clínicas veterinárias. Esta primeira etapa foca na **tela de gerenciamento de usuários**, onde é possível visualizar e administrar quem utiliza o sistema (como recepcionistas, veterinários e administradores).
 
-### 🎯 Objetivos
+###  Objetivos
 
 - Praticar **componentização** com React
 - Trabalhar **estado** (`useState`) e **renderização de listas**
 - Construir uma interface organizada e fácil de usar
 - Criar a base para as próximas telas do sistema (pets, tutores e consultas)
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 | Funcionalidade | Descrição |
 |---|---|
@@ -41,7 +41,7 @@ O **PetCare Manager** é um projeto acadêmico que simula parte de um sistema pa
 | ✏️ **Edição** | Atualiza os dados de um usuário existente |
 | 🗑️ **Remoção** | Exclui usuários da lista |
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 | Tecnologia | Uso no projeto |
 |---|---|
@@ -49,31 +49,9 @@ O **PetCare Manager** é um projeto acadêmico que simula parte de um sistema pa
 | **JavaScript (ES6+)** | Lógica da aplicação e manipulação de estado |
 | **HTML5** | Estrutura das páginas |
 | **CSS3** | Estilização e layout |
+| **Figma** | Prototipação e design das telas |
 | **Node.js / npm** | Ambiente de execução e gerenciamento de dependências |
 
-## 🚀 Como executar
-
-**Pré-requisito:** ter o [Node.js](https://nodejs.org/) instalado (versão LTS recomendada).
-
-```bash
-# 1. Clone o repositório
-git clone https://github.com/kaayllany/petcare-manager.git
-
-# 2. Acesse a pasta do projeto
-cd petcare-manager
-
-# 3. Instale as dependências
-npm install
-
-# 4. Inicie a aplicação
-npm start
-```
-
-A aplicação abrirá automaticamente em **http://localhost:3000**.
-
-## 📸 Preview
-
-<!-- Salve os prints na pasta assets/ e ajuste os nomes dos arquivos abaixo -->
 
 <div align="center">
 
@@ -83,7 +61,7 @@ A aplicação abrirá automaticamente em **http://localhost:3000**.
 
 </div>
 
-## 🔐 Acesso por função
+##  Acesso por função
 
 Protótipos interativos do sistema, um para cada perfil de usuário. Clique no link abaixo para ver o acesso e as credenciais de login de cada função.
 
@@ -94,42 +72,15 @@ Protótipos interativos do sistema, um para cada perfil de usuário. Clique no l
 - [Caixa/Financeiro](./caixa-financeiro.md)
 - [Especialista de Higiene](./especialista-higiene.md)
 
-## 📂 Estrutura do projeto
 
-<!-- Ajuste para refletir a estrutura real do seu projeto -->
 
-```
-petcare-manager/
-├── public/
-├── src/
-│   ├── components/     # Componentes reutilizáveis
-│   ├── App.js
-│   └── index.js
-├── assets/             # Imagens do README
-├── package.json
-└── README.md
-```
-
-## 🗺️ Próximos passos
-
-- [ ] Integrar com banco de dados / API
-- [ ] Tela de cadastro de pets e tutores
-- [ ] Agendamento de consultas
-- [ ] Autenticação de usuários
-
-## 💡 Aprendizados
-
-- Divisão da interface em componentes menores e reutilizáveis
-- Uso de estado para atualizar a tela em tempo real
-- Renderização dinâmica de listas com `map()`
-- Organização de um projeto React do zero
-
-## 📫 Autora
+##  Autora
 
 <div align="center">
 
-**Kaylany Thayna**
-Estudante de Análise e Desenvolvimento de Sistemas · UNICID
+##  Autoria
+
+Projeto desenvolvido em grupo por **Kaylany** e colegas, na graduação em **Análise e Desenvolvimento de Sistemas (UNICID)**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2F855A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaylany-thayna)
 &nbsp;&nbsp;
