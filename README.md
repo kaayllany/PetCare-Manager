@@ -8,11 +8,10 @@
 &nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-2F855A?style=for-the-badge&logo=javascript&logoColor=white)
 &nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-2F855A?style=for-the-badge&logo=html5&logoColor=white)
+![Figma](https://img.shields.io/badge/HTML5-2F855A?style=for-the-badge&logo=html5&logoColor=white)
 &nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-2F855A?style=for-the-badge&logo=css3&logoColor=white)
 &nbsp;&nbsp;
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-2F855A?style=for-the-badge)
 
 [Sobre](#-sobre-o-projeto) •
 [Funcionalidades](#-funcionalidades) •
